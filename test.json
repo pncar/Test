@@ -203,6 +203,7 @@
     {
       "title": "Freelance",
       "period": "NOV 2016 - MAR 2018",
+      "position_short": "Frontend",
       "positions": [
         {
           "position_title": "Graphic Designer",
@@ -229,6 +230,7 @@
     {
       "title": "Elephant DG",
       "period": "FEB 2022 - JUL 2022",
+      "position_short": "...",
       "positions": [
         {
           "position_title": "Graphic Designer",
@@ -254,6 +256,7 @@
     {
       "title": "Endes Web",
       "period": "FEB 2022 - JUL 2023",
+      "position_short": "Frontend & Backend",
       "positions": [
         {
           "position_title": "Graphic Designer",
