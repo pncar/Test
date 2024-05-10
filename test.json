@@ -12,7 +12,7 @@
       ],
       "desc": "Small app for comparing to colors and check if they have the correct contrast according to WCAG."
     },
-     {
+    {
       "id": 1,
       "title": "React Store",
       "live": "https://pncar.github.io/contrastchecker/",
@@ -22,6 +22,28 @@
         "e-commerce"
       ],
       "desc": "E-Commerce made in React"
+    },
+    {
+      "id": 2,
+      "title": "Kanji App",
+      "live": "https://pncar.github.io/kanjiapp/",
+      "repository": "https://github.com/pncar/kanjiapp",
+      "tags": [
+        "react",
+        "learning"
+      ],
+      "desc": "App made to memorize and learn japanese kanji based on the kyōiku system."
+    },
+    {
+      "id": 3,
+      "title": "Rune Transcript App",
+      "live": "https://pncar.github.io/runetranscript/",
+      "repository": "https://github.com/pncar/Rune-App",
+      "tags": [
+        "react",
+        "learning"
+      ],
+      "desc": "Web app which takes latin input and converts it to different runic systems."
     }
   ],
   "skills": [
