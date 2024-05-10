@@ -1,1 +1,335 @@
-{"path":"https:\/\/endesweb.com\/cv\/server\/projects\/","projects":[{"name":"tertulia","title":"Tertulia","cover":"tertulia_small.webp","path":"tertulia","q":8,"files":["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"],"colors":["#b13334","white"],"live":"https:\/\/endesweb.com\/tertulia_new\/","tags":["socialmedia","web"],"desc":"Website and Social Media content for the Tertulia, a Tea Room from Argentina."},{"name":"patagoniatea","title":"Patagonia Tea","cover":"patagoniatea_small.webp","path":"patagoniatea","q":5,"files":["1.webp","2.webp","3.webp","4.webp","5.webp"],"colors":["#f6c471","#453c30"],"live":"https:\/\/endesweb.com\/patagonia_tea\/","tags":["socialmedia","web"],"desc":"Website and Social Media content."},{"name":"axis","title":"Axis","cover":"axis_small.webp","path":"axis","q":4,"files":["1.webp","2.webp","3.webp","4.webp"],"colors":["#0284c7","white"],"live":"https:\/\/endesweb.com\/axis\/ms-medical\/","tags":["web","uiux"],"desc":"E-Commerce website for a Medical Supplies Provider, the site features a convenient, intuitive and responsive UI\/UX for filtering and searching products. It also supports different currencies (AR$ and U$D) and languages."},{"name":"venica","title":"Grabiel V\u00e9nica y Consultores Asociados","cover":"venica_small.webp","path":"venica","q":8,"files":["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp"],"colors":["#e02b21","white"],"live":"https:\/\/gabrielvenica.com.ar","tags":["socialmedia","web"],"desc":"Website for Gabriel V\u00e9nica & Consutlores Asociados, a consultancy firm. Our work consisted in rebuilding an old Adobe Flash website with modern technologies, along with an overhaul in its institutional design. The site also features blog posts and updatable content."},{"name":"artisan","title":"Artisan","cover":"artisan_small.webp","path":"artisan","q":10,"files":["1.webp","2.webp","3.webp","4.webp","5.webp","6.webp","7.webp","8.webp","9.webp","10.webp"],"colors":["#ffe7b8","#2e1c09"],"live":"https:\/\/endesweb.com\/coffee\/","tags":["socialmedia","web","product"],"desc":"Product design for a Coffee Brand."},{"name":"clearsky","title":"ClearSky","cover":"clearsky_small.webp","path":"clearsky","q":1,"files":["1.webp"],"colors":["#64befa","#072a42"],"live":"https:\/\/endesweb.com\/weather_app\/","tags":["web","uiux"],"desc":"ClearSky is a Weather SPA made with React and TailwindCSS using the VisualCrossing API to get weather data. It displays the current weather conditions in a convenient and intuitive way, and also data for the following hours and weeks. It has a responsive design suitable both for desktop and mobile devices. Its UI also features a light\/dark mode and different temperature scales."},{"name":"contrastchecker","title":"Contrast Checker","cover":"contrastchecker.webp","path":"contrastchecker","q":1,"files":["1.webp"],"colors":["#fafaf9","#0c0a09"],"live":"https:\/\/pncar.github.io\/contrastchecker\/","tags":["web","uiux"],"desc":"Simple React app for displaying the WCAG standards of two contrsating colors, also it has the option to pick colors directly from Tailwind palettes."}],"skills":[{"title":"Fundamentals (HTML, CSS, JS)","desc":"I'm familiar with HTML from when sites layouts were made using tables and styling was done inline. Regarding CSS I'm experienced with both vanilla CSS and libraries\/frameworks such as Bootstrap and Tailwind. Know how to create responsive layouts & management of media queries. Apply transform and filters and creating CSS-only based animations and transitions. Use of variables. Adaption of certain code to different platforms. In regards of JS I have experience dynamically generating HTML content and DOM manipulation, both with jQuery and Vanilla JS."},{"title":"JavaScript","desc":"Experienced with Javascript, I've knowledge of event handling, DOM manipulation, making requests via AJAX, among other things. For many years I've been building websites with only plain HTML\/CSS + JavaScript (usually with the help of jQuery), generating and updating content dynamically. I'm familiar with most of the concepts of ES6 like classes, arrow functions, new variable declarations, array methods (map, filter, sort, etc), spread and ternary operators, etc. While not very experienced yet I've some basic understanding of Typescript. In recent times I've adapted to modern frameworks such as React. Outside of websites I've used Javascript with Unity engine and for making some Chrome extensions."},{"title":"Server Side","desc":"Although I do mostly frontend, I have experience in integrating backend functionalities to enhance the overall performance and user experience of web applications. My backend experience primarily involves implementing server-side functionalities, such as handling API requests, retrieving and processing data, and ensuring secure communication between the frontend and backend. I have implemented features like sending emails, processing sensitive information that should not be handled on the client side, and interacting with MySQL databases to efficiently manage and retrieve data."},{"title":"Wordpress","desc":"Experience with regular Wordrpess sites and using WP as a headless CMS. Also editing & customizing themes."},{"title":"React","desc":"Recently most of my projects were made using React. I've experience with functional components and hooks, understanding of JSX, conditional rendering, event handling, props, and more. Know how to handle a moderately complex state and how to avoid prop drilling and other bad practices that can cause scalability\/maintainability issues. Also implementing routing using react-router-dom and retrieve query params."},{"title":"Other JS Frameworks","desc":"While in most of my recent projects I've used React. The first JS framework I used was AngularJS followed then by Vue2, I learned the basics of both and build some SPAs with them, but since they were discontinued I've not touched them in a while."}],"experience":[{"title":"Freelance","period":"NOV 2016 - MAR 2018","positions":[{"position_title":"Graphic Designer","list":["Designing of Social Media content","Basic web design (HTML and CSS)","Customize WP and Bootstrap Themes","Photo Manipulation","Motion Graphics & Video Editing","3D Content Creation"],"tools":["Adobe Photoshop","Adobe Illustrator","Adobe After Effects","Cinema4D","HTML5","CSS","Sony Vegas"]}]},{"title":"Elephant DG","period":"FEB 2022 - JUL 2022","positions":[{"position_title":"Graphic Designer","list":["Content design for Social Media (Facebook posts, Instagram posts and stories)","Motion Graphics & Animated Posts\/Stories","Logo Design","Brand Guidelines","Photo Manipulation","Optimization of image and video files","Product visualization in 3D and 2D.","Edition of content created by previous designers and re-creation of the same content from scratch in case editables were not available."],"tools":["Adobe Photoshop","Adobe Illustrator","Adobe After Effects","Cinema4D"]}]},{"title":"Endes Web","period":"FEB 2022 - JUL 2022","positions":[{"position_title":"Graphic Designer","list":["Designing highly-engaging content for Social Media (Facebook posts, Instagram posts and stories).","Animated Stories and Videos.","Logo Design","Brand Guidelines","Photo Manipulation","Optimization of image and video files","Product Visualization in 2D and 3D","Redesigning existing websites","Creation of websites from scratch (mostly landing pages, but also some e-commerce and blogs)."],"tools":["Adobe Photoshop","Adobe Illustrator","Adobe After Effects","Adobe Premiere PRO","Cinema 4D","StableDiffusion","HTML5","CSS","Bootstrap","TailwindCSS","HTML Canvas"]},{"position_title":"Developer","list":["Frontend Web Developer","Implementation of the UI, sometimes following an already existing design (made by me or by a previous designer).","Implementation of some backend like Wordpress as a CMS.","Integration with backend using AJAX for asynchronous data retrieval, ensuring seamless communication between the frontend and backend.","Ensuring the sites are responsive and work on all devices tested.","Avoiding Cumulative Layout Shift.","Optimization of code and content, remove unnecessary content, choosing the best filetypes possibles in cases of images\/videos.","Adaptation to the widest range of users and following WCAG guidelines"," Implementing SEO best practices."],"tools":["HTML5","CSS","JavaScript","jQuery","Bootstrap","PHP","MySQL","Wordpress","TailwindCSS","Laravel","React","Apache HTTP","NPM","Vite","Create-React-App"]},{"position_title":"Other Areas","list":["Communication with clients, understanding their needs, translating technical to non-technical ones, providing a clear understanding and alignment on project goals and timelines, maintain a regular communication to address concerns, provide updates, and ensure client satisfaction","Testing the websites with users and getting user feedback, and implementing improvements when necessary.","Implementation of SEO best practices, keeping track of SEO strategies using analytics tools.","Instructing clients on website maintenance and content management systems, helping clients to manage and update their websites independently. Developed user-friendly documentation and tutorials to facilitate a smooth transition and ongoing self-sufficiency."]}]}],"education":[{"title":"Fundaci\u00f3n Gutenberg","period":"MAR 2015 - AUG 2018","degree":"BA in Visual Communication"}]}
+{
+  "path": "https://endesweb.com/cv/server/projects/",
+  "projects": [
+    {
+      "name": "tertulia",
+      "title": "Tertulia",
+      "cover": "tertulia_small.webp",
+      "path": "tertulia",
+      "q": 8,
+      "files": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp",
+        "8.webp"
+      ],
+      "colors": [
+        "#b13334",
+        "white"
+      ],
+      "live": "https://endesweb.com/tertulia_new/",
+      "tags": [
+        "socialmedia",
+        "web"
+      ],
+      "desc": "Website and Social Media content for the Tertulia, a Tea Room from Argentina."
+    },
+    {
+      "name": "patagoniatea",
+      "title": "Patagonia Tea",
+      "cover": "patagoniatea_small.webp",
+      "path": "patagoniatea",
+      "q": 5,
+      "files": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp"
+      ],
+      "colors": [
+        "#f6c471",
+        "#453c30"
+      ],
+      "live": "https://endesweb.com/patagonia_tea/",
+      "tags": [
+        "socialmedia",
+        "web"
+      ],
+      "desc": "Website and Social Media content."
+    },
+    {
+      "name": "axis",
+      "title": "Axis",
+      "cover": "axis_small.webp",
+      "path": "axis",
+      "q": 4,
+      "files": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp"
+      ],
+      "colors": [
+        "#0284c7",
+        "white"
+      ],
+      "live": "https://endesweb.com/axis/ms-medical/",
+      "tags": [
+        "web",
+        "uiux"
+      ],
+      "desc": "E-Commerce website for a Medical Supplies Provider, the site features a convenient, intuitive and responsive UI/UX for filtering and searching products. It also supports different currencies (AR$ and U$D) and languages."
+    },
+    {
+      "name": "venica",
+      "title": "Grabiel Vénica y Consultores Asociados",
+      "cover": "venica_small.webp",
+      "path": "venica",
+      "q": 8,
+      "files": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp",
+        "8.webp"
+      ],
+      "colors": [
+        "#e02b21",
+        "white"
+      ],
+      "live": "https://gabrielvenica.com.ar",
+      "tags": [
+        "socialmedia",
+        "web"
+      ],
+      "desc": "Website for Gabriel Vénica & Consutlores Asociados, a consultancy firm. Our work consisted in rebuilding an old Adobe Flash website with modern technologies, along with an overhaul in its institutional design. The site also features blog posts and updatable content."
+    },
+    {
+      "name": "artisan",
+      "title": "Artisan",
+      "cover": "artisan_small.webp",
+      "path": "artisan",
+      "q": 10,
+      "files": [
+        "1.webp",
+        "2.webp",
+        "3.webp",
+        "4.webp",
+        "5.webp",
+        "6.webp",
+        "7.webp",
+        "8.webp",
+        "9.webp",
+        "10.webp"
+      ],
+      "colors": [
+        "#ffe7b8",
+        "#2e1c09"
+      ],
+      "live": "https://endesweb.com/coffee/",
+      "tags": [
+        "socialmedia",
+        "web",
+        "product"
+      ],
+      "desc": "Product design for a Coffee Brand."
+    },
+    {
+      "name": "clearsky",
+      "title": "ClearSky",
+      "cover": "clearsky_small.webp",
+      "path": "clearsky",
+      "q": 1,
+      "files": [
+        "1.webp"
+      ],
+      "colors": [
+        "#64befa",
+        "#072a42"
+      ],
+      "live": "https://endesweb.com/weather_app/",
+      "tags": [
+        "web",
+        "uiux"
+      ],
+      "desc": "ClearSky is a Weather SPA made with React and TailwindCSS using the VisualCrossing API to get weather data. It displays the current weather conditions in a convenient and intuitive way, and also data for the following hours and weeks. It has a responsive design suitable both for desktop and mobile devices. Its UI also features a light/dark mode and different temperature scales."
+    },
+    {
+      "name": "contrastchecker",
+      "title": "Contrast Checker",
+      "cover": "contrastchecker.webp",
+      "path": "contrastchecker",
+      "q": 1,
+      "files": [
+        "1.webp"
+      ],
+      "colors": [
+        "#fafaf9",
+        "#0c0a09"
+      ],
+      "live": "https://pncar.github.io/contrastchecker/",
+      "tags": [
+        "web",
+        "uiux"
+      ],
+      "desc": "Simple React app for displaying the WCAG standards of two contrsating colors, also it has the option to pick colors directly from Tailwind palettes."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Fundamentals (HTML, CSS, JS)",
+      "desc": "I'm familiar with HTML from when sites layouts were made using tables and styling was done inline. Regarding CSS I'm experienced with both vanilla CSS and libraries/frameworks such as Bootstrap and Tailwind. Know how to create responsive layouts & management of media queries. Apply transform and filters and creating CSS-only based animations and transitions. Use of variables. Adaption of certain code to different platforms. In regards of JS I have experience dynamically generating HTML content and DOM manipulation, both with jQuery and Vanilla JS."
+    },
+    {
+      "title": "JavaScript",
+      "desc": "Experienced with Javascript, I've knowledge of event handling, DOM manipulation, making requests via AJAX, among other things. For many years I've been building websites with only plain HTML/CSS + JavaScript (usually with the help of jQuery), generating and updating content dynamically. I'm familiar with most of the concepts of ES6 like classes, arrow functions, new variable declarations, array methods (map, filter, sort, etc), spread and ternary operators, etc. While not very experienced yet I've some basic understanding of Typescript. In recent times I've adapted to modern frameworks such as React. Outside of websites I've used Javascript with Unity engine and for making some Chrome extensions."
+    },
+    {
+      "title": "Server Side",
+      "desc": "Although I do mostly frontend, I have experience in integrating backend functionalities to enhance the overall performance and user experience of web applications. My backend experience primarily involves implementing server-side functionalities, such as handling API requests, retrieving and processing data, and ensuring secure communication between the frontend and backend. I have implemented features like sending emails, processing sensitive information that should not be handled on the client side, and interacting with MySQL databases to efficiently manage and retrieve data."
+    },
+    {
+      "title": "Wordpress",
+      "desc": "Experience with regular Wordrpess sites and using WP as a headless CMS. Also editing & customizing themes."
+    },
+    {
+      "title": "React",
+      "desc": "Recently most of my projects were made using React. I've experience with functional components and hooks, understanding of JSX, conditional rendering, event handling, props, and more. Know how to handle a moderately complex state and how to avoid prop drilling and other bad practices that can cause scalability/maintainability issues. Also implementing routing using react-router-dom and retrieve query params."
+    },
+    {
+      "title": "Other JS Frameworks",
+      "desc": "While in most of my recent projects I've used React. The first JS framework I used was AngularJS followed then by Vue2, I learned the basics of both and build some SPAs with them, but since they were discontinued I've not touched them in a while."
+    }
+  ],
+  "experience": [
+    {
+      "title": "Freelance",
+      "period": "NOV 2016 - MAR 2018",
+      "positions": [
+        {
+          "position_title": "Graphic Designer",
+          "list": [
+            "Designing of Social Media content",
+            "Basic web design (HTML and CSS)",
+            "Customize WP and Bootstrap Themes",
+            "Photo Manipulation",
+            "Motion Graphics & Video Editing",
+            "3D Content Creation"
+          ],
+          "tools": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe After Effects",
+            "Cinema4D",
+            "HTML5",
+            "CSS",
+            "Sony Vegas"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Elephant DG",
+      "period": "FEB 2022 - JUL 2022",
+      "positions": [
+        {
+          "position_title": "Graphic Designer",
+          "list": [
+            "Content design for Social Media (Facebook posts, Instagram posts and stories)",
+            "Motion Graphics & Animated Posts/Stories",
+            "Logo Design",
+            "Brand Guidelines",
+            "Photo Manipulation",
+            "Optimization of image and video files",
+            "Product visualization in 3D and 2D.",
+            "Edition of content created by previous designers and re-creation of the same content from scratch in case editables were not available."
+          ],
+          "tools": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe After Effects",
+            "Cinema4D"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Endes Web",
+      "period": "FEB 2022 - JUL 2022",
+      "positions": [
+        {
+          "position_title": "Graphic Designer",
+          "list": [
+            "Designing highly-engaging content for Social Media (Facebook posts, Instagram posts and stories).",
+            "Animated Stories and Videos.",
+            "Logo Design",
+            "Brand Guidelines",
+            "Photo Manipulation",
+            "Optimization of image and video files",
+            "Product Visualization in 2D and 3D",
+            "Redesigning existing websites",
+            "Creation of websites from scratch (mostly landing pages, but also some e-commerce and blogs)."
+          ],
+          "tools": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Adobe After Effects",
+            "Adobe Premiere PRO",
+            "Cinema 4D",
+            "StableDiffusion",
+            "HTML5",
+            "CSS",
+            "Bootstrap",
+            "TailwindCSS",
+            "HTML Canvas"
+          ]
+        },
+        {
+          "position_title": "Developer",
+          "list": [
+            "Frontend Web Developer",
+            "Implementation of the UI, sometimes following an already existing design (made by me or by a previous designer).",
+            "Implementation of some backend like Wordpress as a CMS.",
+            "Integration with backend using AJAX for asynchronous data retrieval, ensuring seamless communication between the frontend and backend.",
+            "Ensuring the sites are responsive and work on all devices tested.",
+            "Avoiding Cumulative Layout Shift.",
+            "Optimization of code and content, remove unnecessary content, choosing the best filetypes possibles in cases of images/videos.",
+            "Adaptation to the widest range of users and following WCAG guidelines",
+            " Implementing SEO best practices."
+          ],
+          "tools": [
+            "HTML5",
+            "CSS",
+            "JavaScript",
+            "jQuery",
+            "Bootstrap",
+            "PHP",
+            "MySQL",
+            "Wordpress",
+            "TailwindCSS",
+            "Laravel",
+            "React",
+            "Apache HTTP",
+            "NPM",
+            "Vite",
+            "Create-React-App"
+          ]
+        },
+        {
+          "position_title": "Other Areas",
+          "list": [
+            "Communication with clients, understanding their needs, translating technical to non-technical ones, providing a clear understanding and alignment on project goals and timelines, maintain a regular communication to address concerns, provide updates, and ensure client satisfaction",
+            "Testing the websites with users and getting user feedback, and implementing improvements when necessary.",
+            "Implementation of SEO best practices, keeping track of SEO strategies using analytics tools.",
+            "Instructing clients on website maintenance and content management systems, helping clients to manage and update their websites independently. Developed user-friendly documentation and tutorials to facilitate a smooth transition and ongoing self-sufficiency."
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "Fundación Gutenberg",
+      "period": "MAR 2015 - AUG 2018",
+      "degree": "BA in Visual Communication"
+    }
+  ]
+}
