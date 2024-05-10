@@ -2,7 +2,7 @@
   "path": "https://endesweb.com/cv/server/projects/",
   "projects": [
      {
-      "id": 0
+      "id": 0,
       "title": "Contrast Checker",
       "live": "https://pncar.github.io/contrastchecker/",
       "repository": "https://github.com/pncar/contrastchecker",
@@ -13,7 +13,7 @@
       "desc": "Small app for comparing to colors and check if they have the correct contrast according to WCAG."
     },
      {
-      "id": 1
+      "id": 1,
       "title": "React Store",
       "live": "https://pncar.github.io/contrastchecker/",
       "repository": "https://github.com/pncar/ReactCom",
