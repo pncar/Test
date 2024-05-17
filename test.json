@@ -4,6 +4,7 @@
      {
       "id": 0,
       "title": "Contrast Checker",
+	  "thumb": "https://camo.githubusercontent.com/e545807f7d4a27aaf124f7c65eef9fb3c420399b27d699842e499ac3fd8d3b67/68747470733a2f2f692e696d6775722e636f6d2f5a314a33746b372e706e67",
       "live": "https://pncar.github.io/contrastchecker/",
       "repository": "https://github.com/pncar/contrastchecker",
       "tags": [
@@ -25,6 +26,7 @@
     {
       "id": 2,
       "title": "Kanji App",
+	  "thumb": "https://camo.githubusercontent.com/222e6e25f30006c47fe410fae68b8340828add41121f890c8d7585d09741cf9b/68747470733a2f2f692e696d6775722e636f6d2f7177504b52576c2e706e67",
       "live": "https://pncar.github.io/kanjiapp/",
       "repository": "https://github.com/pncar/kanjiapp",
       "tags": [
