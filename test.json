@@ -15,7 +15,6 @@
     {
       "id": 1,
       "title": "React Store",
-      "live": "https://pncar.github.io/contrastchecker/",
       "repository": "https://github.com/pncar/ReactCom",
       "tags": [
         "react",
@@ -26,6 +25,7 @@
     {
       "id": 2,
       "title": "Kanji App",
+      "live": "https://pncar.github.io/kanjiapp/",
       "repository": "https://github.com/pncar/kanjiapp",
       "tags": [
         "react",
