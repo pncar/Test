@@ -26,7 +26,6 @@
     {
       "id": 2,
       "title": "Kanji App",
-      "live": "https://pncar.github.io/kanjiapp/",
       "repository": "https://github.com/pncar/kanjiapp",
       "tags": [
         "react",
@@ -50,7 +49,6 @@
       "id": 4,
       "title": "Gabriel Vénica & Consultores Asociados",
       "live": "https://gabrielvenica.com.ar/",
-      "repository": "-",
       "tags": [
         "business",
 		"blog"
