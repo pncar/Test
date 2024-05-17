@@ -11,7 +11,7 @@
         "react",
         "spa"
       ],
-      "desc": "Small app for comparing to colors and check if they have the correct contrast according to WCAG."
+      "desc": "Web app made using React, it compares two colors and checks if they fulfill WCAG standards. The app also provides an option to directly pick from TailwindCSS colors, which is useful for both designers and frontend developers."
     },
     {
       "id": 1,
