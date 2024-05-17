@@ -37,6 +37,7 @@
     {
       "id": 3,
       "title": "Rune Transcript App",
+	  "thumb": "https://camo.githubusercontent.com/de6f6c35a7e47865455b3ec98c4650e9cba5007cdb4e77a151c85a8bfad59232/68747470733a2f2f692e696d6775722e636f6d2f695048735437512e706e67",
       "live": "https://pncar.github.io/runetranscript/",
       "repository": "https://github.com/pncar/Rune-App",
       "tags": [
