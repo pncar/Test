@@ -88,16 +88,20 @@
 	{
 		"title": "React",
 		"list": ["Functional Components","Global State","Redux","React Router","Axios/AJAX","Modern Hooks"]
+	},
+	{
+		"title": "Tools",
+		"list": ["VSCode","Sublimte Text","Notepad++","Git/Github"] 
 	}
   ],
   "experience": [
     {
       "title": "Freelance",
       "period": "NOV 2016 - MAR 2018",
-      "position_short": "Frontend",
+      "position_short": "Web Designer & Frontend Developer",
       "positions": [
         {
-          "position_title": "Graphic Designer",
+          "position_title": "Frontend Developer / Graphic Designer",
           "list": [
             "Designing of Social Media content",
             "Basic web design (HTML and CSS)",
@@ -121,7 +125,7 @@
     {
       "title": "Elephant DG",
       "period": "FEB 2022 - JUL 2022",
-      "position_short": "...",
+      "position_short": "Web Designer & Frontend Developer",
       "positions": [
         {
           "position_title": "Graphic Designer",
@@ -147,7 +151,7 @@
     {
       "title": "Endes Web",
       "period": "FEB 2022 - JUL 2023",
-      "position_short": "Frontend & Backend",
+      "position_short": "Web Developer",
       "positions": [
         {
           "position_title": "Graphic Designer",
