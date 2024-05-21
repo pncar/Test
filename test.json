@@ -62,29 +62,25 @@
   ],
   "skills": [
     {
-      "title": "Fundamentals (HTML, CSS, JS)",
-      "desc": "I'm familiar with HTML from when sites layouts were made using tables and styling was done inline. Regarding CSS I'm experienced with both vanilla CSS and libraries/frameworks such as Bootstrap and Tailwind. Know how to create responsive layouts & management of media queries. Apply transform and filters and creating CSS-only based animations and transitions. Use of variables. Adaption of certain code to different platforms. In regards of JS I have experience dynamically generating HTML content and DOM manipulation, both with jQuery and Vanilla JS."
-    },
-    {
-      "title": "JavaScript",
-      "desc": "Experienced with Javascript, I've knowledge of event handling, DOM manipulation, making requests via AJAX, among other things. For many years I've been building websites with only plain HTML/CSS + JavaScript (usually with the help of jQuery), generating and updating content dynamically. I'm familiar with most of the concepts of ES6 like classes, arrow functions, new variable declarations, array methods (map, filter, sort, etc), spread and ternary operators, etc. While not very experienced yet I've some basic understanding of Typescript. In recent times I've adapted to modern frameworks such as React. Outside of websites I've used Javascript with Unity engine and for making some Chrome extensions."
-    },
-    {
-      "title": "Server Side",
-      "desc": "Although I do mostly frontend, I have experience in integrating backend functionalities to enhance the overall performance and user experience of web applications. My backend experience primarily involves implementing server-side functionalities, such as handling API requests, retrieving and processing data, and ensuring secure communication between the frontend and backend. I have implemented features like sending emails, processing sensitive information that should not be handled on the client side, and interacting with MySQL databases to efficiently manage and retrieve data."
-    },
-    {
-      "title": "Wordpress",
-      "desc": "Experience with regular Wordrpess sites and using WP as a headless CMS. Also editing & customizing themes."
-    },
-    {
-      "title": "React",
-      "desc": "Recently most of my projects were made using React. I've experience with functional components and hooks, understanding of JSX, conditional rendering, event handling, props, and more. Know how to handle a moderately complex state and how to avoid prop drilling and other bad practices that can cause scalability/maintainability issues. Also implementing routing using react-router-dom and retrieve query params."
-    },
-    {
-      "title": "Other JS Frameworks",
-      "desc": "While in most of my recent projects I've used React. The first JS framework I used was AngularJS followed then by Vue2, I learned the basics of both and build some SPAs with them, but since they were discontinued I've not touched them in a while."
-    }
+		"title": "Frontend Web Development",
+		"list": ["React","HTML5","CSS3","JavaScript","Bootstrap","TailwindCSS","jQuery","Redux","AJAX","Wordpress","Vue2","AngularJS","Git/Github"]
+	},
+	{
+		"title": "Backend Web Development",
+		"list": ["PHP","MySQL","Laravel","Apache","NodeJS","Express","Wordpress","Git/Github"]
+	},
+	{
+		"title": "HTML",
+		"list": ["Responsive Design","SEO Optimization"]
+	},
+	{
+		"title": "CSS",
+		"list": ["CSS3","TailwindCSS","Bootstrap","Bulma","Sass","Flex","Responsive Design"]
+	},
+	{
+		"title": "JavaScript",
+		"list": ["React","Redux","ES6","TypeScript","jQuery","Vue2","AngularJS"]
+	}
   ],
   "experience": [
     {
