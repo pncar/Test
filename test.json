@@ -1,5 +1,15 @@
 {
   "path": "https://endesweb.com/cv/server/projects/",
+  "about": {
+	  "des": {
+		  "title": "What I do",
+		  "body": "Web, UI/UX Design"
+	  },
+	  "dev": {
+		  "title": "What I do",
+		  "body": "As a Web Developer I have more than 5 years of experience, coming from a Graphic Design background I specialize in creating personal/business websites and landing pages, I have knowledge of the essentials like vanilla HTML, CSS, and JavaScript, as well as older standards like jQuery, although in the last years I've switched to modern frameworks such as React, being able to ensure responsiveness, fast & proper loading, clear UI/UX, accessibility, and engagement. I'm also experienced with backend technologies and integrating them with the frontend."
+	  }
+  },
   "projects": [
      {
       "id": 0,
