@@ -13,6 +13,7 @@
   "projects": [
      {
       "id": 0,
+	  "area": "dev",
       "title": "Contrast Checker",
 	  "thumb": "https://i.imgur.com/i8nLv3x.png",
       "live": "https://pncar.github.io/contrastchecker/",
@@ -26,6 +27,7 @@
     },
     {
       "id": 1,
+	  "area": "dev",
       "title": "React Store",
 	  "thumb": "https://i.imgur.com/oa27ssY.png",
       "repository": "https://github.com/pncar/ReactCom",
@@ -38,6 +40,7 @@
     },
     {
       "id": 2,
+	  "area": "dev",
       "title": "Kanji App",
 	  "thumb": "https://i.imgur.com/etv5nt0.png",
       "live": "https://pncar.github.io/kanjiapp/",
@@ -51,6 +54,7 @@
     },
     {
       "id": 3,
+	  "area": "dev",
       "title": "Runic Transliteration App",
 	  "thumb": "https://i.imgur.com/DvaFSMs.png",
       "live": "https://pncar.github.io/runetranscript/",
@@ -64,6 +68,7 @@
     },
     {
       "id": 4,
+	  "area": "dev",
       "title": "Gabriel Vénica & Consultores Asociados",
 	  "thumb": "https://i.imgur.com/vPi7GfJ.png",
       "live": "https://gabrielvenica.com.ar/",
@@ -73,6 +78,22 @@
       ],
 	  "type": "Website",
       "desc": "Corporate website for a consultancy firm."
+    },
+    {
+      "id": 5,
+	  "area": "des",
+      "title": "ClearSky",
+	  "thumb": "https://endesweb.com/portfolio/covers/clearsky_small.webp",
+      "live": "https://endesweb.com/weather_app/",
+      "tags": [
+        "react",
+        "spa"
+      ],
+	  "images": [
+		"https://endesweb.com/cv/server/projects/clearsky/1.webp"
+	  ],
+	  "type": "Web App",
+      "desc": "Weather app"
     }
   ],
   "skills": [
