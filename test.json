@@ -86,6 +86,7 @@
 	  "thumb": "https://endesweb.com/portfolio/covers/clearsky_small.webp",
       "live": "https://endesweb.com/weather_app/",
       "tags": [
+		"ui/ux",
         "react",
         "spa"
       ],
@@ -94,6 +95,79 @@
 	  ],
 	  "type": "Web App",
       "desc": "Weather app"
+    },
+    {
+      "id": 6,
+	  "area": "des",
+      "title": "Artisan",
+	  "thumb": "https://endesweb.com/portfolio/covers/artisan_small.webp",
+      "live": "https://endesweb.com/coffee/",
+      "tags": [
+        "react",
+        "lading page"
+      ],
+	  "images": [
+		"https://endesweb.com/cv/server/projects/artisan/1.webp",
+		"https://endesweb.com/cv/server/projects/artisan/2.webp",
+		"https://endesweb.com/cv/server/projects/artisan/3.webp",
+		"https://endesweb.com/cv/server/projects/artisan/4.webp",
+		"https://endesweb.com/cv/server/projects/artisan/5.webp",
+		"https://endesweb.com/cv/server/projects/artisan/6.webp",
+		"https://endesweb.com/cv/server/projects/artisan/7.webp",
+		"https://endesweb.com/cv/server/projects/artisan/8.webp",
+		"https://endesweb.com/cv/server/projects/artisan/9.webp",
+		"https://endesweb.com/cv/server/projects/artisan/10.webp"
+	  ],
+	  "type": "Landing Page",
+      "desc": "Artisan..."
+    },
+    {
+      "id": 7,
+	  "area": "des",
+      "title": "Tertulia",
+	  "thumb": "https://endesweb.com/portfolio/covers/tertulia_small.webp",
+      "live": "https://endesweb.com/tertulia_new/",
+      "tags": [
+        "react",
+        "landing page"
+      ],
+	  "images": [
+		"https://endesweb.com/cv/server/projects/tertulia/1.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/2.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/3.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/4.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/5.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/6.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/7.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/8.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/9.webp",
+		"https://endesweb.com/cv/server/projects/tertulia/10.webp"
+	  ],
+	  "type": "Landing Page",
+      "desc": "Tertulia..."
+    },
+    {
+      "id": 8,
+	  "area": "des",
+      "title": "Venica",
+	  "thumb": "https://endesweb.com/portfolio/covers/venica_small.webp",
+      "live": "https://gabrielvenica.com.ar/",
+      "tags": [
+        "react",
+        "landing page",
+		"corporate design"
+      ],
+	  "images": [
+		"https://endesweb.com/cv/server/projects/venica/1.webp",
+		"https://endesweb.com/cv/server/projects/venica/2.webp",
+		"https://endesweb.com/cv/server/projects/venica/3.webp",
+		"https://endesweb.com/cv/server/projects/venica/4.webp",
+		"https://endesweb.com/cv/server/projects/venica/5.webp",
+		"https://endesweb.com/cv/server/projects/venica/6.webp",
+		"https://endesweb.com/cv/server/projects/venica/7.webp"
+	  ],
+	  "type": "Corporate Website",
+      "desc": "Website for Gabriel Vénica & Consutlores Asociados, a consultancy firm. Our work consisted in rebuilding an old Adobe Flash website with modern technologies, along with an overhaul in its institutional design. The site also features blog posts and updatable content."
     }
   ],
   "skills": [
