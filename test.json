@@ -171,12 +171,12 @@
     }
   ],
   "skills": {
-    "des": {
+    "des": [
 		{
 			"title": "Image Editing"
 		}
-	},
-	"dev": {
+	],
+	"dev": [
 		{
 			"title": "Frontend Web Development",
 			"list": ["React","HTML5","CSS3","JavaScript","Bootstrap","TailwindCSS","jQuery","Redux","AJAX","Wordpress","Vue2","AngularJS","Git/Github"]
@@ -209,8 +209,8 @@
 			"title": "Tools",
 			"list": ["VSCode","Sublimte Text","Notepad++","Git/Github"] 
 		}
-	}
-	},
+	]
+},
   "experience": [
     {
       "title": "Freelance",
