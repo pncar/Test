@@ -171,37 +171,44 @@
     }
   ],
   "skills": [
-    {
-		"title": "Frontend Web Development",
-		"list": ["React","HTML5","CSS3","JavaScript","Bootstrap","TailwindCSS","jQuery","Redux","AJAX","Wordpress","Vue2","AngularJS","Git/Github"]
-	},
-	{
-		"title": "Backend Web Development",
-		"list": ["PHP","MySQL","Laravel","Apache","NodeJS","Express","Wordpress","Git/Github"]
-	},
-	{
-		"title": "HTML",
-		"list": ["Responsive Design","SEO Optimization","Canvas"]
-	},
-	{
-		"title": "CSS",
-		"list": ["CSS3","TailwindCSS","Bootstrap","Bulma","Sass","Flexbox","Responsive Design"]
-	},
-	{
-		"title": "JavaScript",
-		"list": ["React","Redux","ES6","TypeScript","jQuery","Vue2","AngularJS","Canvas","Axios/AJAX"]
-	},
-	{
-		"title": "PHP",
-		"list": ["Laravel","MySQL Databases","MVC Architecture"]
-	},
-	{
-		"title": "React",
-		"list": ["Functional Components","Global State","Redux","React Router","Axios/AJAX","Modern Hooks"]
-	},
-	{
-		"title": "Tools",
-		"list": ["VSCode","Sublimte Text","Notepad++","Git/Github"] 
+    "des": {
+		{
+			"title": "Image Editing"
+		}
+	}
+	"dev": {
+		{
+			"title": "Frontend Web Development",
+			"list": ["React","HTML5","CSS3","JavaScript","Bootstrap","TailwindCSS","jQuery","Redux","AJAX","Wordpress","Vue2","AngularJS","Git/Github"]
+		},
+		{
+			"title": "Backend Web Development",
+			"list": ["PHP","MySQL","Laravel","Apache","NodeJS","Express","Wordpress","Git/Github"]
+		},
+		{
+			"title": "HTML",
+			"list": ["Responsive Design","SEO Optimization","Canvas"]
+		},
+		{
+			"title": "CSS",
+			"list": ["CSS3","TailwindCSS","Bootstrap","Bulma","Sass","Flexbox","Responsive Design"]
+		},
+		{
+			"title": "JavaScript",
+			"list": ["React","Redux","ES6","TypeScript","jQuery","Vue2","AngularJS","Canvas","Axios/AJAX"]
+		},
+		{
+			"title": "PHP",
+			"list": ["Laravel","MySQL Databases","MVC Architecture"]
+		},
+		{
+			"title": "React",
+			"list": ["Functional Components","Global State","Redux","React Router","Axios/AJAX","Modern Hooks"]
+		},
+		{
+			"title": "Tools",
+			"list": ["VSCode","Sublimte Text","Notepad++","Git/Github"] 
+		}
 	}
   ],
   "experience": [
