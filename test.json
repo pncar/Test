@@ -85,6 +85,7 @@
       "title": "ClearSky",
 	  "thumb": "https://endesweb.com/portfolio/covers/clearsky_small.webp",
       "live": "https://endesweb.com/weather_app/",
+	  "behance": "https://www.behance.net/gallery/192616717/Clearsky-Weather-App",
       "tags": [
 		"ui/ux",
         "react",
@@ -102,6 +103,7 @@
       "title": "Artisan",
 	  "thumb": "https://endesweb.com/portfolio/covers/artisan_small.webp",
       "live": "https://endesweb.com/coffee/",
+	  "behance": "https://www.behance.net/gallery/192616609/Artisan",
       "tags": [
         "react",
         "lading page"
@@ -127,6 +129,7 @@
       "title": "Tertulia",
 	  "thumb": "https://endesweb.com/portfolio/covers/tertulia_small.webp",
       "live": "https://endesweb.com/tertulia_new/",
+	  "behance": "https://www.behance.net/gallery/192613555/Tertulia-Tearoom",
       "tags": [
         "react",
         "landing page"
