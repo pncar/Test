@@ -173,28 +173,36 @@
   "skills": {
     "des": [
 		{
-			"title": "Image Editing"
+			"title": "Web Design",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		},
 		{
-			"title": "UI/UX Design"
+			"title": "Image Editing",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		},
 		{
-			"title": "Logo Design"
+			"title": "UI/UX Design",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		},
 		{
-			"title": "Branding"
+			"title": "Logo Design",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		},
 		{
-			"title": "Visual Identity"
+			"title": "Branding",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+		}
+		{
+			"title": "Motion Graphics",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		},
 		{
-			"title": "Motion Graphics"
+			"title": "Design for Social Media",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		},
 		{
-			"title": "Design for Social Media"
-		},
-		{
-			"title": "Print Design"
+			"title": "Print Design",
+			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
 		}
 	],
 	"dev": [
