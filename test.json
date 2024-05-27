@@ -170,7 +170,7 @@
       "desc": "Website for Gabriel Vénica & Consutlores Asociados, a consultancy firm. Our work consisted in rebuilding an old Adobe Flash website with modern technologies, along with an overhaul in its institutional design. The site also features blog posts and updatable content."
     }
   ],
-  "skills": [
+  "skills": {
     "des": {
 		{
 			"title": "Image Editing"
@@ -210,7 +210,7 @@
 			"list": ["VSCode","Sublimte Text","Notepad++","Git/Github"] 
 		}
 	}
-  ],
+	},
   "experience": [
     {
       "title": "Freelance",
