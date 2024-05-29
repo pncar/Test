@@ -177,35 +177,35 @@
     "des": [
 		{
 			"title": "Web Design",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Designing visually appealing and user-friendly websites for online presence and interaction."
 		},
 		{
 			"title": "Image Editing",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Enhancing, retouching, and altering images to achieve desired visual outcomes."
 		},
 		{
 			"title": "UI/UX Design",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Designing interfaces and experiences that are intuitive and engaging for users."
 		},
 		{
 			"title": "Logo Design",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Creating unique visual symbols that represent the identity and values of a brand in a simple and memorable way."
 		},
 		{
 			"title": "Branding",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Developing unique visual identities that capture the essence and values of a company or product."
 		},
 		{
 			"title": "Motion Graphics",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Creating animated visuals to add movement and dynamism to digital content."
 		},
 		{
 			"title": "Design for Social Media",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Designing graphics and content optimized for sharing and engagement on social platforms."
 		},
 		{
 			"title": "Print Design",
-			"desc": "Sed eget urna non dui egestas tincidunt vitae nec enim. Quisque varius eget augue vitae laoreet. Vivamus laoreet ante eu quam porttitor laoreet. Vestibulum sed sapien a sem tincidunt interdum ut ut erat. Donec ut sapien dignissim, egestas est et, pulvinar dui. Etiam at sollicitudin lacus. Suspendisse venenatis fermentum est vel consequat."
+			"desc": "Designing materials for physical distribution, such as brochures, posters, and business cards."
 		}
 	],
 	"dev": [
