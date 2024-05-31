@@ -95,7 +95,7 @@
 		"https://endesweb.com/cv/server/projects/clearsky/1.webp"
 	  ],
 	  "type": "Web App",
-      "desc": "Weather app"
+      "desc": "ClearSky is a Weather SPA made with React and TailwindCSS using the VisualCrossing API to get weather data. It displays the current weather conditions in a convenient and intuitive way, and also data for the following hours and weeks. It has a responsive design suitable both for desktop and mobile devices. Its UI also features a light/dark mode and different temperature scales."
     },
     {
       "id": 6,
@@ -121,7 +121,7 @@
 		"https://endesweb.com/cv/server/projects/artisan/10.webp"
 	  ],
 	  "type": "Landing Page",
-      "desc": "Artisan..."
+      "desc": "Product Design & Website Design for a Coffee Brand."
     },
     {
       "id": 7,
@@ -145,7 +145,7 @@
 		"https://endesweb.com/cv/server/projects/tertulia/8.webp"
 	  ],
 	  "type": "Landing Page",
-      "desc": "Tertulia..."
+      "desc": "Socal Media Design & Website Design for a tearoom."
     },
     {
       "id": 8,
