@@ -142,9 +142,7 @@
 		"https://endesweb.com/cv/server/projects/tertulia/5.webp",
 		"https://endesweb.com/cv/server/projects/tertulia/6.webp",
 		"https://endesweb.com/cv/server/projects/tertulia/7.webp",
-		"https://endesweb.com/cv/server/projects/tertulia/8.webp",
-		"https://endesweb.com/cv/server/projects/tertulia/9.webp",
-		"https://endesweb.com/cv/server/projects/tertulia/10.webp"
+		"https://endesweb.com/cv/server/projects/tertulia/8.webp"
 	  ],
 	  "type": "Landing Page",
       "desc": "Tertulia..."
@@ -248,12 +246,11 @@
       "title": "Freelance",
       "period": "NOV 2016 - MAR 2018",
       "position_short": "Web Designer & Frontend Developer",
-      "positions": [
-        {
-          "position_title": "Frontend Developer / Graphic Designer",
+      "job": {
+		"des":{
           "list": [
             "Designing of Social Media content",
-            "Basic web design (HTML and CSS)",
+            "Web Design",
             "Customize WP and Bootstrap Themes",
             "Photo Manipulation",
             "Motion Graphics & Video Editing",
@@ -264,20 +261,29 @@
             "Adobe Illustrator",
             "Adobe After Effects",
             "Cinema4D",
-            "HTML5",
-            "CSS",
             "Sony Vegas"
           ]
+        },
+		"dev":{
+          "list": [
+            "...explain here well",
+            "Customize WP and Bootstrap Themes"
+          ],
+          "tools": [
+            "HTML5",
+            "CSS",
+            "JavaScript",
+			"jQuery"
+          ]
         }
-      ]
+      }
     },
     {
       "title": "Elephant DG",
       "period": "FEB 2022 - JUL 2022",
       "position_short": "Web Designer & Frontend Developer",
-      "positions": [
-        {
-          "position_title": "Graphic Designer",
+      "job": {
+		"des":{
           "list": [
             "Content design for Social Media (Facebook posts, Instagram posts and stories)",
             "Motion Graphics & Animated Posts/Stories",
@@ -294,16 +300,27 @@
             "Adobe After Effects",
             "Cinema4D"
           ]
+        },
+		"dev":{
+          "list": [
+            "...explain here well",
+            "Customize WP and Bootstrap Themes"
+          ],
+          "tools": [
+            "HTML5",
+            "CSS",
+            "JavaScript",
+			"jQuery"
+          ]
         }
-      ]
-    },
+      }
+	},
     {
       "title": "Endes Web",
       "period": "FEB 2022 - JUL 2023",
       "position_short": "Web Designer & Developer",
-      "positions": [
-        {
-          "position_title": "Graphic Designer",
+      "job": {
+		"des":{
           "list": [
             "Designing highly-engaging content for Social Media (Facebook posts, Instagram posts and stories).",
             "Animated Stories and Videos.",
@@ -329,8 +346,7 @@
             "HTML Canvas"
           ]
         },
-        {
-          "position_title": "Developer",
+		"dev":{
           "list": [
             "Frontend Web Developer",
             "Implementation of the UI, sometimes following an already existing design (made by me or by a previous designer).",
@@ -359,17 +375,8 @@
             "Vite",
             "Create-React-App"
           ]
-        },
-        {
-          "position_title": "Other Areas",
-          "list": [
-            "Communication with clients, understanding their needs, translating technical to non-technical ones, providing a clear understanding and alignment on project goals and timelines, maintain a regular communication to address concerns, provide updates, and ensure client satisfaction",
-            "Testing the websites with users and getting user feedback, and implementing improvements when necessary.",
-            "Implementation of SEO best practices, keeping track of SEO strategies using analytics tools.",
-            "Instructing clients on website maintenance and content management systems, helping clients to manage and update their websites independently. Developed user-friendly documentation and tutorials to facilitate a smooth transition and ongoing self-sufficiency."
-          ]
         }
-      ]
+      }
     }
   ],
   "education": [
