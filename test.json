@@ -169,6 +169,26 @@
 	  ],
 	  "type": "Corporate Website",
       "desc": "Website for Gabriel Vénica & Consutlores Asociados, a consultancy firm. Our work consisted in rebuilding an old Adobe Flash website with modern technologies, along with an overhaul in its institutional design. The site also features blog posts and updatable content."
+    },
+    {
+      "id": 9,
+	  "area": "des",
+      "title": "Horizon",
+	  "thumb": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/a3ee3a202496303.6686bb6080b76.jpg",
+      "live": "https://pncar.github.io/horizon/",
+      "tags": [
+        "react",
+        "landing page",
+		"corporate design"
+      ],
+	  "images": [
+		"https://mir-s3-cdn-cf.behance.net/project_modules/1400/a3ee3a202496303.6686bb6080b76.jpg",
+		"https://mir-s3-cdn-cf.behance.net/project_modules/1400/f26ade202496303.6686bb608049e.jpg",
+		"https://mir-s3-cdn-cf.behance.net/project_modules/1400/8533fe202496303.6686bb607f28b.jpg",
+		"https://mir-s3-cdn-cf.behance.net/project_modules/1400/59ee24202496303.6686bb607fe01.jpg"
+	  ],
+	  "type": "Corporate Website",
+      "desc": "Website for Horizon, a company offering solar panels and other electric products. This also includes social media posts."
     }
   ],
   "skills": {
