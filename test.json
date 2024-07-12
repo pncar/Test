@@ -269,12 +269,11 @@
       "job": {
 		"des":{
           "list": [
-            "Designing of Social Media content",
-            "Web Design",
-            "Customize WP and Bootstrap Themes",
-            "Photo Manipulation",
-            "Motion Graphics & Video Editing",
-            "3D Content Creation"
+			"Continued previous designer’s projects, sticking to the established guidelines.",
+			"Re-created from scratch templates which I didn’t have access to editable files.",
+			"Defined brand identity guidelines for new projects, including logos, colors, and other assets.",
+			"Created several pieces of visual content, such as flyers and instagram “story” types.",
+			"Designed and implemented 3D visualizations for product packaging and displays."
           ],
           "tools": [
             "Adobe Photoshop",
@@ -286,8 +285,8 @@
         },
 		"dev":{
           "list": [
-            "...explain here well",
-            "Customize WP and Bootstrap Themes"
+			"Created prototypes and wireframes to visualize web design concepts and facilitate client feedback before development.",
+			"Performed website redesigns to refresh outdated ones, and improved usability, performance and accesibility."
           ],
           "tools": [
             "HTML5",
@@ -305,14 +304,11 @@
       "job": {
 		"des":{
           "list": [
-            "Content design for Social Media (Facebook posts, Instagram posts and stories)",
-            "Motion Graphics & Animated Posts/Stories",
-            "Logo Design",
-            "Brand Guidelines",
-            "Photo Manipulation",
-            "Optimization of image and video files",
-            "Product visualization in 3D and 2D.",
-            "Edition of content created by previous designers and re-creation of the same content from scratch in case editables were not available."
+			"Continued previous designer’s projects, sticking to the established guidelines.",
+			"Re-created from scratch templates which I didn’t have access to editable files.",
+			"Defined brand identity guidelines for new projects, including logos, colors, and other assets.",
+			"Created several pieces of visual content, such as flyers and instagram “story” types.",
+			"Designed and implemented 3D visualizations for product packaging and displays."
           ],
           "tools": [
             "Adobe Photoshop",
@@ -323,8 +319,8 @@
         },
 		"dev":{
           "list": [
-            "...explain here well",
-            "Customize WP and Bootstrap Themes"
+			"Created prototypes and wireframes to visualize web design concepts and facilitate client feedback before development.",
+			"Performed website redesigns to refresh outdated ones, and improved usability, performance and accesibility."
           ],
           "tools": [
             "HTML5",
@@ -342,15 +338,16 @@
       "job": {
 		"des":{
           "list": [
-            "Designing highly-engaging content for Social Media (Facebook posts, Instagram posts and stories).",
-            "Animated Stories and Videos.",
-            "Logo Design",
-            "Brand Guidelines",
-            "Photo Manipulation",
-            "Optimization of image and video files",
-            "Product Visualization in 2D and 3D",
-            "Redesigning existing websites",
-            "Creation of websites from scratch (mostly landing pages, but also some e-commerce and blogs)."
+			"Created wireframes, mockups, and prototypes to illustrate design concepts to clients.",
+			"Created custom graphics, icons, and illustrations for projects.",
+			"Defined a brand identity for the client or translated previous one into the web designs.",
+			"Designed landing pages optimized for conversion and lead generation.",
+			"Designed the UI/UX for interactive web apps of varying levels of complexity.",
+			"Ensured designs were accessible, adhering to WCAG guidelines.",
+			"Created custom email templates aligned with the overall website design.",
+			"Managed the visual consistency of social media content across different platforms.",
+			"Created visual content (flyers, short videos) for social media to generate conversions.",
+			"Developed websites that I’ve previously designed and optimized for speed, performance, and SEO to enhance user engagement and search engine rankings."
           ],
           "tools": [
             "Adobe Photoshop",
@@ -368,15 +365,16 @@
         },
 		"dev":{
           "list": [
-            "Frontend Web Developer",
-            "Implementation of the UI, sometimes following an already existing design (made by me or by a previous designer).",
-            "Implementation of some backend like Wordpress as a CMS.",
-            "Integration with backend using AJAX for asynchronous data retrieval, ensuring seamless communication between the frontend and backend.",
-            "Ensuring the sites are responsive and work on all devices tested.",
-            "Avoiding Cumulative Layout Shift.",
-            "Optimization of code and content, remove unnecessary content, choosing the best filetypes possibles in cases of images/videos.",
-            "Adaptation to the widest range of users and following WCAG guidelines",
-            " Implementing SEO best practices."
+			"Developed websites that are responsive, provide a clear and useful user experience and have high performance.",
+			"Optimized websites for speed, performance, and SEO to enhance user engagement and search engine rankings.",
+			"Reworked existing projects using newer technologies.",
+			"Developed web scrapers to gather data from other sites.",
+			"Handled the deployment of websites on Apache servers using FTP.",
+			"Integrated third-party APIs and services to extend website capabilities and functionality.",
+			"Managed website maintenance, updates, and security to ensure optimal functionality and safety.",
+			"Provided technical support and troubleshooting for issues related to websites.",
+			"Utilized version control systems like Git to manage and track changes in project development.",
+			"Designed and developed websites adhering to WCAG standards to ensure accessibility for all users."
           ],
           "tools": [
             "HTML5",
